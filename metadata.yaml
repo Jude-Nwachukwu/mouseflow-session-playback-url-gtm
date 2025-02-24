@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/mouseflow-session-playback-url-gtm
+versions:
+  - sha: f877d6501ddc2a47a7722db745625592adcbc3d5
+    changeNotes: Initial release.
